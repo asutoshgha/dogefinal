@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dogecoinpredictor-staging-74859-authRole",
+      "UnauthRoleArn": "arn:aws:iam::864665711106:role/amplify-dogecoinpredictor-staging-74859-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::864665711106:role/amplify-dogecoinpredictor-staging-74859-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-dogecoinpredictor-staging-74859-deployment",
+      "UnauthRoleName": "amplify-dogecoinpredictor-staging-74859-unauthRole",
+      "StackName": "amplify-dogecoinpredictor-staging-74859",
+      "StackId": "arn:aws:cloudformation:us-east-2:864665711106:stack/amplify-dogecoinpredictor-staging-74859/f7c99e21-d652-11eb-85f6-06af3210f7fa",
+      "AmplifyAppId": "d2hry6yrhc4mz9"
+    }
+  }
+}
